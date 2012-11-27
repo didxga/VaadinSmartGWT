@@ -1,3 +1,11 @@
+NOTE: This project is now abandonware. We have moved on to a pure SmartGWT approach as the 
+expected volumes for our application were mandating way too much ressources on the server
+side to hold the state for all the clients simultaneously.
+
+Anyone interested in taking over the project, feel free to contact us.
+
+-------------------------------------------------------------------------------------------------
+
 This project is the attempt to provide a complete Vaadin integration to SmartGWT components.
 
 The versions used are :
